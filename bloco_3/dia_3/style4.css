@@ -1,0 +1,38 @@
+.cores:hover {
+    background-color: green;
+}
+
+.primaria:hover {
+    background-color: red;
+    font-size: 40px;
+}
+
+.secundaria:hover {
+    background-color: green;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.complementar:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    background-color: brown;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.escura:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    background-color: grey;
+    font-size: 60px;
+
+}
+
+.clara:hover {
+    background-color: aqua;
+}
+
+h3 {
+    font-style: italic;
+}
